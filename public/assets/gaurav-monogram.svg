@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-label="GA monogram">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="28%" r="80%"><stop offset="0" stop-color="#7a0f24"/><stop offset="0.58" stop-color="#1a0509"/><stop offset="1" stop-color="#07070a"/></radialGradient>
+    <linearGradient id="type" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4e8"/><stop offset="1" stop-color="#ff3d5a"/></linearGradient>
+  </defs>
+  <rect width="720" height="900" fill="url(#bg)"/>
+  <circle cx="360" cy="370" r="240" fill="none" stroke="#ff3d5a" stroke-opacity=".28" stroke-width="2"/>
+  <circle cx="360" cy="370" r="205" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="1"/>
+  <text x="360" y="435" fill="url(#type)" font-family="Arial,Helvetica,sans-serif" font-size="210" font-weight="800" text-anchor="middle" letter-spacing="-18">GA</text>
+  <text x="360" y="530" fill="#f3e9e5" fill-opacity=".72" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="600" text-anchor="middle" letter-spacing="9">FULL-STACK DEVELOPER</text>
+  <path d="M170 610H550" stroke="#ff3d5a" stroke-opacity=".65"/>
+</svg>
